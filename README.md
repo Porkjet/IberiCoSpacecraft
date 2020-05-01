@@ -1,4 +1,4 @@
-# IberiCoSpacecraft
+# IberiCo Spacecraft
 Part Mod for Kerbal Space Program
 
 Small Crewed Spacecraft and Station Parts Pack
