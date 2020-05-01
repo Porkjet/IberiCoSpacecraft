@@ -1,6 +1,35 @@
 # IberiCoSpacecraft
 Part Mod for Kerbal Space Program
 
+Small Crewed Spacecraft and Station Parts Pack
+
+Part list:
+
+Inflatable Living Spaces:
+- 0.625m (inflates to ~ 1.25m spheres) - 2 versions
+- 1.25m (inflates to ~ 2.5m spheres) - 2 versions
+- 1.875m (inflates to ~ 3.75m spheres) - 2 versions
+- 2.5m (inflataes to 5m x 6m)
+- 2.5m (inflates to 6m x 2m doughnut) - includes docking ports
+- small centrifuge hab (6.5m dia)
+- medium centrifuge hab (10.5m dia)
+
+Rigid Crewed Vessels:
+- 1.875 / 2.5m Cupola
+
+TO DO List:
+- make centrifuges spin
+- Skins Variations
+- a few more Rigid parts to compliment the others
+
+Wish list:
+- IVA's
+
+
+
+
+
+
 # License
 IberiCo Spacecraft is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
